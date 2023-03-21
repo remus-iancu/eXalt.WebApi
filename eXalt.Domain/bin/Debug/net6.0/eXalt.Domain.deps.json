@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "eXalt.Domain/1.0.0": {
+        "dependencies": {
+          "eXalt.DomainApi": "1.0.0"
+        },
+        "runtime": {
+          "eXalt.Domain.dll": {}
+        }
+      },
+      "eXalt.DomainApi/1.0.0": {
+        "runtime": {
+          "eXalt.DomainApi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eXalt.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eXalt.DomainApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

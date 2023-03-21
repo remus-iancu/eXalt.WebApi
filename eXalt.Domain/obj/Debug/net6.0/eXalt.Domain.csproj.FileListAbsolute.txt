@@ -1,0 +1,15 @@
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\bin\Debug\net6.0\eXalt.Domain.deps.json
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\bin\Debug\net6.0\eXalt.Domain.dll
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\bin\Debug\net6.0\eXalt.Domain.pdb
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\bin\Debug\net6.0\eXalt.DomainApi.dll
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\bin\Debug\net6.0\eXalt.DomainApi.pdb
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.csproj.AssemblyReference.cache
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.AssemblyInfoInputs.cache
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.AssemblyInfo.cs
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.csproj.CoreCompileInputs.cache
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.csproj.CopyComplete
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.dll
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\refint\eXalt.Domain.dll
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\eXalt.Domain.pdb
+D:\Code\eXalt\eXalt.WebApi\eXalt.Domain\obj\Debug\net6.0\ref\eXalt.Domain.dll

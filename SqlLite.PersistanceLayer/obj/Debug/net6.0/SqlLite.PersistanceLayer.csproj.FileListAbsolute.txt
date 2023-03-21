@@ -1,0 +1,15 @@
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\bin\Debug\net6.0\SqlLite.PersistanceLayer.deps.json
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\bin\Debug\net6.0\SqlLite.PersistanceLayer.dll
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\bin\Debug\net6.0\SqlLite.PersistanceLayer.pdb
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\bin\Debug\net6.0\eXalt.DomainApi.dll
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\bin\Debug\net6.0\eXalt.DomainApi.pdb
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.csproj.AssemblyReference.cache
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.AssemblyInfoInputs.cache
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.AssemblyInfo.cs
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.csproj.CoreCompileInputs.cache
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.csproj.CopyComplete
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.dll
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\refint\SqlLite.PersistanceLayer.dll
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\SqlLite.PersistanceLayer.pdb
+D:\Code\eXalt\eXalt.WebApi\SqlLite.PersistanceLayer\obj\Debug\net6.0\ref\SqlLite.PersistanceLayer.dll

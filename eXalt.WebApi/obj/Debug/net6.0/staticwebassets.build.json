@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y4yAaFxdyH/h+Trvd2SI2Zs68MDQsTNvqIAVmVRki24=",
+  "Source": "eXalt.WebApi",
+  "BasePath": "_content/eXalt.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
